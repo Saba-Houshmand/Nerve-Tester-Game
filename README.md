@@ -1,4 +1,4 @@
-# 🚀 Nerve Tester Game
+# 🌌 Nerve Tester Game
 An interactive precision game built with **C#** and **Windows Forms**. Test your focus and hand stability by navigating through the space path without touching the borders!
 
 ## 🎮 How to Play
