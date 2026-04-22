@@ -16,5 +16,6 @@ To experience the game, you can download the latest version from the link below:
 
 [![Download Nerve Tester](https://img.shields.io/badge/Download-Game-blue?style=for-the-badge&logo=windows)](https://github.com/Saba-Houshmand/Nerve-Tester-Game/releases/download/v1.0.0/Nerve-Tester.exe)
 
-> **Note:** After downloading, just run the `.exe` file and enjoy!
+> **Note:** After downloading, just run the `.exe` file and play!
+
 <img width="1508" height="650" alt="Screenshot 2026-04-22 190735" src="https://github.com/user-attachments/assets/5dedeb85-2ffd-4066-987d-149f45a1e27a" />
